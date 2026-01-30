@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "id": "user_001",
+      "name": "Sarah Chen",
+      "handle": "@sarahchen",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200",
+      "bio": "Photographer & Travel enthusiast 📸✈️",
+      "verified": true,
+      "stats": {
+        "posts": 89,
+        "followers": 12470,
+        "following": 342
+      },
+      "social": {
+        "website": "https://sarahchen.photo",
+        "twitter": "@sarahchen"
+      }
+    },
+    {
+      "id": "user_002",
+      "name": "Tech Daily",
+      "handle": "@techdaily",
+      "avatar": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=200",
+      "bio": "Your daily dose of technology news 📱💻",
+      "verified": true,
+      "stats": {
+        "posts": 2341,
+        "followers": 2345670,
+        "following": 45
+      },
+      "social": {
+        "website": "https://techdaily.com",
+        "twitter": "@techdaily"
+      }
+    },
+    {
+      "id": "user_003",
+      "name": "Travel Guide",
+      "handle": "@travelguide",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200",
+      "bio": "Exploring the world one destination at a time 🌍",
+      "verified": false,
+      "stats": {
+        "posts": 567,
+        "followers": 456780,
+        "following": 234
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "site": {
+    "name": "timesquare",
+    "tagline": "Connect with the world",
+    "version": "2.0.0",
+    "theme": {
+      "primaryColor": "#1877f2",
+      "darkMode": false
+    }
+  },
+  "features": {
+    "infiniteScroll": true,
+    "darkMode": true,
+    "videoAutoplay": true,
+    "lazyLoading": true
+  },
+  "content": {
+    "postsPerPage": 5,
+    "maxPosts": 50,
+    "autoLoadInterval": 800
+  }
+}
